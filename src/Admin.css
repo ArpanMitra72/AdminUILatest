@@ -1,0 +1,33 @@
+.table-head {
+  width: 100%;
+  border-collapse: collapse;
+}
+.table-head th {
+  padding-top: -0.8rem;
+  padding-bottom: 1rem;
+  padding-left: 1rem;
+  padding-right: 10%;
+  text-align: left;
+  border-bottom: 0.05rem solid #ccc;
+  text-align: left;
+}
+.table-head td {
+  padding: 1rem;
+  border-bottom: 0.05rem solid #ccc;
+  text-align: left;
+}
+.highlightedRows {
+  background-color: #757575;
+  color: #fff;
+}
+.setIcon {
+  padding-bottom: 0.4rem;
+}
+.working-icons {
+  display: flex;
+  align-items: center;
+}
+.gap {
+  width: 1.6rem;
+  height: 0.1rem;
+}
